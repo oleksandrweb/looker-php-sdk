@@ -1,10 +1,12 @@
 {
-    "description": "",
+    "name": "alexkart/looker-php-sdk",
+    "description": "PHP SDK for Looker API",
     "keywords": [
         "swagger",
         "php",
         "sdk",
-        "api"
+        "api",
+        "looker"
     ],
     "homepage": "http://swagger.io",
     "license": "proprietary",
